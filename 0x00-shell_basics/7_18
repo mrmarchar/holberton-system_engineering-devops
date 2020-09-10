@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "#!/bin/bash" >> 7-movethatfile
+echo "#!/bin/bash" >> 8-firstdelete
+echo "#!/bin/bash" >> 9-firstdirdeletion
+echo "#!/bin/bash" >> 10-back
+echo "#!/bin/bash" >> 11-lists
+echo "#!/bin/bash" >> 12-file_type
+echo "#!/bin/bash" >> 13-symbolic_link
+echo "#!/bin/bash" >> 14-copy_html
+echo "#!/bin/bash" >> 15-lets_move
+echo "#!/bin/bash" >> 16-clean_emacs
+echo "#!/bin/bash" >> 17-tree
+echo "#!/bin/bash" >> 18-commas
